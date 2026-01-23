@@ -12,7 +12,6 @@ class YandexCloudProvider(Provider):
     
     def __init__(self):
         super().__init__("YandexCloud")
-        # https://yandex.cloud/ru/docs/ai-studio/text-generation/api-ref/Tokenizer/tokenize
         self.url = "https://llm.api.cloud.yandex.net/foundationModels/v1/completion"
         self.folder_id = os.getenv("YANDEXCLOUD_FOLDER_ID", "")
     
