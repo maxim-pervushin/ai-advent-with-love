@@ -1,0 +1,6 @@
+chainlit==2.9.5
+aiohttp==3.13.3
+python-dotenv==1.0.1
+tokenizers>=0.19.1
+mcp>=1.0.0
+fastmcp>=2.0.0
