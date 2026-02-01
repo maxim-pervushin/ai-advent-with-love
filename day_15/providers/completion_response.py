@@ -1,0 +1,15 @@
+from dataclasses import dataclass
+from typing import Optional, List, Any
+
+
+@dataclass
+class CompletionsResponse:
+    """Response from AI provider completions API"""
+    text: str
+    prompt_tokens: Optional[int] = None
+    completion_tokens: Optional[int] = None
+    total_tokens: Optional[int] = None
+    prompt_tokens_calculated: Optional[int] = None
+    completion_tokens_calculated: Optional[int] = None
+    latency: Optional[float] = None
+    tool_calls: Optional[List[Any]] = None
