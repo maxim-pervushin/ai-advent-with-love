@@ -1,0 +1,10 @@
+The quick brown fox jumps over the lazy dog.
+Machine learning is a subset of artificial intelligence.
+Python is a popular programming language for data science.
+The weather today is sunny and warm.
+I enjoy reading books about technology and innovation.
+Vector databases are useful for similarity search applications.
+Embeddings capture semantic meaning in numerical form.
+Natural language processing helps computers understand text.
+Neural networks are inspired by the human brain.
+Data science involves statistics, programming, and domain expertise.
