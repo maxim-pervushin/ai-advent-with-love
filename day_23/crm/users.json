@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "user_001",
+      "name": "Алексей Иванов",
+      "email": "alexey.ivanov@email.com",
+      "registration_date": "2024-01-15",
+      "subscription_type": "premium",
+      "courses": ["course_101", "course_205", "course_303"],
+      "last_login": "2026-02-10"
+    },
+    {
+      "id": "user_002",
+      "name": "Мария Петрова",
+      "email": "maria.petrova@email.com",
+      "registration_date": "2024-03-22",
+      "subscription_type": "standard",
+      "courses": ["course_101", "course_112"],
+      "last_login": "2026-02-09"
+    },
+    {
+      "id": "user_003",
+      "name": "Дмитрий Сидоров",
+      "email": "dmitry.sidorov@email.com",
+      "registration_date": "2025-11-30",
+      "subscription_type": "premium",
+      "courses": ["course_205", "course_401", "course_502"],
+      "last_login": "2026-02-11"
+    },
+    {
+      "id": "user_004",
+      "name": "Елена Козлова",
+      "email": "elena.kozlova@email.com",
+      "registration_date": "2026-01-05",
+      "subscription_type": "trial",
+      "courses": ["course_101"],
+      "last_login": "2026-02-10"
+    }
+  ]
+}

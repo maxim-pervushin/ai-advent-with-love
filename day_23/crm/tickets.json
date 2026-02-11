@@ -1,0 +1,46 @@
+{
+  "tickets": [
+    {
+      "id": "ticket_001",
+      "user_id": "user_001",
+      "subject": "Проблемы с авторизацией",
+      "description": "Пользователь не может войти в аккаунт, появляется ошибка 'Неверный пароль'. Пробовал сбросить пароль через email, но письмо не приходит.",
+      "status": "open",
+      "priority": "high",
+      "created_at": "2026-02-11T09:30:00",
+      "assigned_to": "support_agent_1"
+    },
+    {
+      "id": "ticket_002",
+      "user_id": "user_002",
+      "subject": "Видео не воспроизводится",
+      "description": "Видео в курсе 'Основы Python' зависает на 2 минуте. Пробовал обновить страницу и сменить браузер.",
+      "status": "in_progress",
+      "priority": "medium",
+      "created_at": "2026-02-10T14:15:00",
+      "assigned_to": "support_agent_2"
+    },
+    {
+      "id": "ticket_003",
+      "user_id": "user_003",
+      "subject": "Не приходят сертификаты",
+      "description": "Завершил курс 'Веб-дизайн', но сертификат не появился в профиле. Прошло более 24 часов.",
+      "status": "open",
+      "priority": "medium",
+      "created_at": "2026-02-11T10:45:00",
+      "assigned_to": null
+    },
+    {
+      "id": "ticket_004",
+      "user_id": "user_004",
+      "subject": "Вопрос по оплате",
+      "description": "Как изменить способ оплаты для продления подписки? Сейчас привязана карта, которую хочу заменить.",
+      "status": "closed",
+      "priority": "low",
+      "created_at": "2026-02-05T16:20:00",
+      "assigned_to": "support_agent_3",
+      "resolved_at": "2026-02-05T17:05:00",
+      "resolution": "Пользователю предоставлена инструкция по изменению способа оплаты в настройках профиля."
+    }
+  ]
+}
